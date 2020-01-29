@@ -1,4 +1,4 @@
-# React .env sample project
+# React .env sample project (How to hide API key)
 This is a sample project from my medium article about how to hide API key.  
 
 [[React.js] How to hide your API key when uploading your code on GitHub](https://link.medium.com/bu8yzlYFE3)
