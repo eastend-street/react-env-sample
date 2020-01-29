@@ -1,6 +1,6 @@
 # React .env sample project
 This is a sample project from my medium article.  
-https://medium.com/@jun.y/react-js-how-to-hide-your-api-key-when-uploading-your-code-on-github-75674209bbcd
+https://link.medium.com/bu8yzlYFE3
 
 <br/>
 
