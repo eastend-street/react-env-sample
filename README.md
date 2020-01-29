@@ -6,14 +6,14 @@ https://link.medium.com/bu8yzlYFE3
 
 # Get started
 ### 1.Download project
-```
+```console
 git clone https://github.com/eastend-street/react-env-sample.git
 
 yarn install
 
 ```
 
-### 2. Create .env.development.local file on root directory like .env.sample
+### 2. Create `.env.development.local` file on root directory like `.env.sample`
 
 ```
 // .env.development.local
