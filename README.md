@@ -6,7 +6,7 @@ https://link.medium.com/bu8yzlYFE3
 
 # Get started
 ### 1.Download project
-```console
+```
 git clone https://github.com/eastend-street/react-env-sample.git
 
 yarn install
