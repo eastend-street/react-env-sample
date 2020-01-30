@@ -5,7 +5,7 @@ Medium: [[React.js] How to hide your API key when uploading your code on GitHub]
 
 <br/>
 
-# Get started
+# Usage
 ### 1.Download project
 ```
 git clone https://github.com/eastend-street/react-env-sample.git
